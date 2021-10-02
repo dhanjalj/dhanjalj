@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jaspreet Kaur Dhanjal
+- 👀 I’m interested in Cancer Genomics and Personlized medicine
+- 🌱 I’m currently learning everything I can
+- 💞️ I’m looking to collaborate on interesting research problems
+- 📫 How to reach me jaspreet@iiitd.ac.in
